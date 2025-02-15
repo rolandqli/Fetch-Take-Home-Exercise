@@ -1,0 +1,7 @@
+sentence,class_label,sentiment_label
+"I had a great time playing soccer with you",sports,positive
+"Good job fetching that ball boy",sports,positive
+"I don't like this, the story is a bit too far-fetched",books,negative
+"This was not my favorite dish to eat",food,negative
+"The author killed it. Great story. Awesome read",books,positive
+"Yuck, too salty",food,negative
